@@ -18,5 +18,6 @@ int main()
 	scanf("%d", &n);
 	one(n);
 	return 0;
+	
 }
 
